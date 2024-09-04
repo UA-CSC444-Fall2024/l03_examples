@@ -1,0 +1,9 @@
+circle {
+   fill: blue;
+}
+
+rect {
+   fill: yellow;
+   stroke: black;
+   stroke-width: 2;
+}
